@@ -33,6 +33,7 @@ Git & GitHub practice repository covering branches, issues, pull requests, workf
 ## 📫 Connect with Me
 
 - GitHub: https://github.com/UmaimahAfzal
+- LinkedIn: https://www.linkedin.com/in/umaimahafzal
 
 ---
 ⭐ Always learning, building, and improving.
