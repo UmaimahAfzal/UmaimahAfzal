@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Umaimah Afzal 👋
 
-<!--
-**UmaimahAfzal/UmaimahAfzal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science & Engineering Student
 
-Here are some ideas to get you started:
+💻 Passionate about Software Development and Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- Python
+- Java
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- Express.js
+- Git & GitHub
+
+## 📂 Featured Projects
+
+### 🎉 EventEase
+A web-based Event Management System developed as a B.Tech mini project.
+
+### 🧪 DEV-Laboratory
+Git & GitHub practice repository covering branches, issues, pull requests, workflows, and DevOps basics.
+
+## 🌱 Currently Learning
+
+- Data Structures & Algorithms
+- Full Stack Web Development
+- DevOps
+- System Design Basics
+
+## 📫 Connect with Me
+
+- GitHub: https://github.com/UmaimahAfzal
+
+---
+⭐ Always learning, building, and improving.
