@@ -96,7 +96,7 @@ The application focuses on simplifying daily attendance entry, organization, rec
 
 **Role:** Developer
 
-🔗 [View KITSW Attendance Manager Repository](https://github.com/UmaimahAfzal)
+🔗 [View KITSW Attendance Manager Repository](https://github.com/UmaimahAfzal/KITSW-Attendance-Manager)
 
 ---
 
